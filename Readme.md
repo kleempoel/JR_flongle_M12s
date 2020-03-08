@@ -36,16 +36,16 @@ Data/fasta\_pass.fasta|FASTA|DNA|230,394|67,470,630|101|292.8|400
 
 `../usearch/usearch -cluster_fast Data/fasta_pass.fasta -id 0.80 -threads 32 -sizeout -centroids Data/centroids.fasta -uc Data/clusters.uc -consout Data/jr_m12s_jm_consensus.fasta`
 
-      Seqs  230394 (230.4k)
-  Clusters  115250 (115.2k)
-  Max size  5989
-  Avg size  2.0
-  Min size  1
-Singletons  102113 (102.1k), 44.3% of seqs, 88.6% of clusters
-   Max mem  730Mb
-      Time  24:47
-Throughput  154.9 seqs/sec.
-
+**Seqs**|**230394 (230.4k)**
+:-----:|:-----:
+Clusters|115250 (115.2k)
+Max size|5989
+Avg size|2.0
+Min size|1
+Singletons|102113 (102.1k), 44.3% of seqs, 88.6% of clusters
+Max mem|730Mb
+Time|24:47
+Throughput|154.9 seqs/sec.
 
 `../usearch/usearch -sortbysize Data/jr_m12s_jm_consensus.fasta -fastaout Data/jr_m12s_jm_consensus_min5.fasta -minsize 5`
 
@@ -67,4 +67,4 @@ https://drive5.com/usearch/manual/identity.html
 `blastn -db ../JR_SoilF1/db_ncbi_vrtmito/ncbi_vrtmito.fasta -query Data/jr_m12s_jm_consensus_min5.fasta -out blast/jr_flongle_m12s_blast_mito.txt -max_target_seqs 1 -perc_identity 80 -outfmt "6 qseqid sseqid sacc staxids evalue pident nident slen qstart qend length mismatch"`
 
 5. Analysing Blastn results
-[In this notebook](jr_flongle_m12s_blastn.ipynb)
+[In this notebook](jr_flongle_m12s_blastn.ipynb). But not pretty, will work in R markdown in the future
