@@ -1,0 +1,6 @@
+sacc,count,taxid,common_name,scientific_name,Genus,Family,Order,Class,Kingdom,ref_name
+NC_014456,25,61384,bobcat,Lynx rufus,Lynx,Felidae,Carnivora,Mammalia,Metazoa,"Lynx rufus mitochondrion, complete genome"
+KR132584,11,61384,bobcat,Lynx rufus,Lynx,Felidae,Carnivora,Mammalia,Metazoa,"Lynx rufus mitochondrion, partial genome"
+KU891252,8,798169,Sikkim mountain vole,Neodon sikimensis,Neodon,Cricetidae,Rodentia,Mammalia,Metazoa,"Neodon sikimensis mitochondrion, complete genome"
+NC_008093,7,9614,coyote,Canis latrans,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis latrans mitochondrion, complete genome"
+MN199171,1,1449541,narrow-headed vole,Lasiopodomys gregalis,Lasiopodomys,Cricetidae,Rodentia,Mammalia,Metazoa,"Lasiopodomys gregalis isolate MI080 mitochondrion, partial genome"
