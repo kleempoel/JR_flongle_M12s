@@ -27,8 +27,9 @@ Data/fastq_pass.fastq |FASTQ  | DNA  |  295,234 | 109,867,923   |    84  |  372.
 
 `seqkit stats Data/fasta_pass.fasta`
 
-file                   format  type  num_seqs     sum_len  min_len  avg_len  max_len
-Data/fasta_pass.fasta  FASTA   DNA    230,394  67,470,630      101    292.8      400
+**file**|**format**|**type**|**num\_seqs**|**sum\_len**|**min\_len**|**avg\_len**|**max\_len**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+Data/fasta\_pass.fasta|FASTA|DNA|230,394|67,470,630|101|292.8|400
 
 
 3. Cluster sequences with usearch, then sort by size and remove rare clusters
@@ -36,22 +37,23 @@ Data/fasta_pass.fasta  FASTA   DNA    230,394  67,470,630      101    292.8     
 `../usearch/usearch -cluster_fast Data/fasta_pass.fasta -id 0.80 -threads 32 -sizeout -centroids Data/centroids.fasta -uc Data/clusters.uc -consout Data/jr_m12s_jm_consensus.fasta`
 
       Seqs  230394 (230.4k)
-  Clusters  227232 (227.2k)
-  Max size  54
-  Avg size  1.0
+  Clusters  115250 (115.2k)
+  Max size  5989
+  Avg size  2.0
   Min size  1
-Singletons  225799 (225.8k), 98.0% of seqs, 99.4% of clusters
-   Max mem  944Mb
-      Time  16:24
-Throughput  234.1 seqs/sec.
+Singletons  102113 (102.1k), 44.3% of seqs, 88.6% of clusters
+   Max mem  730Mb
+      Time  24:47
+Throughput  154.9 seqs/sec.
 
 
 `../usearch/usearch -sortbysize Data/jr_m12s_jm_consensus.fasta -fastaout Data/jr_m12s_jm_consensus_min5.fasta -minsize 5`
 
 `seqkit stats Data/jr_m12s_jm_consensus_min5.fasta`
 
-file                                   format  type  num_seqs  sum_len  min_len  avg_len  max_len
-Data/jr_m12s_jm_consensus_min10.fasta  FASTA   DNA         52   14,508      248      279      306
+**file**|**format**|**type**|**num\_seqs**|**sum\_len**|**min\_len**|**avg\_len**|**max\_len**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+Data/jr\_m12s\_jm\_consensus\_min5.fasta|FASTA|DNA|4,296|1,232,430|178|286.9|336
 
 
 https://drive5.com/usearch/manual/cmd_cluster_fast.html
@@ -62,7 +64,7 @@ https://drive5.com/usearch/manual/identity.html
 
 `mkdir blast`
 
-`blastn -db ../JR_SoilF1/db_ncbi_vrtmito/ncbi_vrtmito.fasta -query Data/jr_m12s_jm_consensus_min10.fasta -out blast/jr_flongle_m12s_blast_mito.txt -max_target_seqs 1 -perc_identity 80 -outfmt "6 qseqid sseqid sacc staxids evalue pident nident slen qstart qend length mismatch"`
+`blastn -db ../JR_SoilF1/db_ncbi_vrtmito/ncbi_vrtmito.fasta -query Data/jr_m12s_jm_consensus_min5.fasta -out blast/jr_flongle_m12s_blast_mito.txt -max_target_seqs 1 -perc_identity 80 -outfmt "6 qseqid sseqid sacc staxids evalue pident nident slen qstart qend length mismatch"`
 
 5. Analysing Blastn results
 [In this notebook](jr_flongle_m12s_blastn.ipynb)
