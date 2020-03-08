@@ -36,8 +36,7 @@ Data/fasta\_pass.fasta|FASTA|DNA|230,394|67,470,630|101|292.8|400
 
 `../usearch/usearch -cluster_fast Data/fasta_pass.fasta -id 0.80 -threads 32 -sizeout -centroids Data/centroids.fasta -uc Data/clusters.uc -consout Data/jr_m12s_jm_consensus.fasta`
 
-**Seqs**|**230394 (230.4k)**
-:-----:|:-----:
+Seqs|230394 (230.4k)
 Clusters|115250 (115.2k)
 Max size|5989
 Avg size|2.0
