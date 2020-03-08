@@ -16,8 +16,8 @@ File size is 269Mo
 
 `seqkit stats Data/fastq_pass.fastq`
 
-file                   format  type  num_seqs      sum_len  min_len  avg_len  max_len
-Data/fastq_pass.fastq  FASTQ   DNA    295,234  109,867,923       84    372.1    4,367
+file                  | format | type | num_seqs |     sum_len | min_len | avg_len | max_len
+Data/fastq_pass.fastq |FASTQ  | DNA  |  295,234 | 109,867,923   |    84  |  372.1  |  4,367
 
 
 `seqkit seq --min-len 100 --max-len 400 Data/fastq_pass.fastq > Data/fastq_pass_100-400bp.fastq`
