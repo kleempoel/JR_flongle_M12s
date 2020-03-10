@@ -1,0 +1,217 @@
+sacc,count,taxid,common_name,scientific_name,Genus,Family,Order,Class,Kingdom,ref_name
+NC_014456,38770,61384,bobcat,Lynx rufus,Lynx,Felidae,Carnivora,Mammalia,Metazoa,"Lynx rufus mitochondrion, complete genome"
+KR132584,14486,61384,bobcat,Lynx rufus,Lynx,Felidae,Carnivora,Mammalia,Metazoa,"Lynx rufus mitochondrion, partial genome"
+NC_008093,13243,9614,coyote,Canis latrans,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis latrans mitochondrion, complete genome"
+KU891252,7907,798169,Sikkim mountain vole,Neodon sikimensis,Neodon,Cricetidae,Rodentia,Mammalia,Metazoa,"Neodon sikimensis mitochondrion, complete genome"
+NC_008064,4490,537919,East European vole,Microtus levis,Microtus,Cricetidae,Rodentia,Mammalia,Metazoa,"Microtus levis mitochondrion, complete genome"
+KR132588,2241,9696,puma,Puma concolor,Puma,Felidae,Carnivora,Mammalia,Metazoa,"Puma concolor mitochondrion, partial genome"
+NC_010340,1972,246881,Mongolian wolf,Canis lupus chanco,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus chanco mitochondrion, complete genome"
+MN199171,1029,1449541,narrow-headed vole,Lasiopodomys gregalis,Lasiopodomys,Cricetidae,Rodentia,Mammalia,Metazoa,"Lasiopodomys gregalis isolate MI080 mitochondrion, partial genome"
+KP128940,881,1621116,NA,Urocyon littoralis dickeyi,Urocyon,Canidae,Carnivora,Mammalia,Metazoa,"Urocyon littoralis dickeyi isolate 472C575E42 mitochondrion, complete genome"
+MG948434,707,47230,Common vole,Microtus arvalis,Microtus,Cricetidae,Rodentia,Mammalia,Metazoa,"Microtus arvalis voucher 15-006 mitochondrion, complete genome"
+KT378606,584,1707807,African golden wolf,Canis lupaster,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis anthus isolate Can6 mitochondrion, complete genome"
+KT725595,542,527686,Gray red-backed vole,Myodes rufocanus,Myodes,Cricetidae,Rodentia,Mammalia,Metazoa,"Myodes rufocanus mitochondrion, complete genome"
+MN199169,380,1449541,narrow-headed vole,Lasiopodomys gregalis,Lasiopodomys,Cricetidae,Rodentia,Mammalia,Metazoa,"Lasiopodomys gregalis isolate MG2 mitochondrion, complete genome"
+JF261175,365,311220,Yangtze vole,Microtus fortis calamorum,Microtus,Cricetidae,Rodentia,Mammalia,Metazoa,"Microtus fortis calamorum mitochondrion, complete genome"
+KX857786,333,37029,leopard cat,Prionailurus bengalensis,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus bengalensis isolate PBE_165_Tibet mitochondrion, partial genome"
+KP202289,248,61382,margay,Leopardus wiedii,Leopardus,Felidae,Carnivora,Mammalia,Metazoa,"Leopardus wiedii isolate LWI mitochondrion, complete genome"
+KP128924,204,1621118,NA,Urocyon littoralis clementae,Urocyon,Canidae,Carnivora,Mammalia,Metazoa,"Urocyon littoralis clementae isolate 985120029005330 mitochondrion, complete genome"
+KP202284,185,32538,ocelot,Leopardus pardalis,Leopardus,Felidae,Carnivora,Mammalia,Metazoa,"Leopardus pardalis isolate LPA mitochondrion, complete genome"
+KX014874,147,259054,NA,Eothenomys miletus,Eothenomys,Cricetidae,Rodentia,Mammalia,Metazoa,"Eothenomys miletus mitochondrion, complete genome"
+NC_016055,146,798166,Irene's mountain vole,Neodon irene,Neodon,Cricetidae,Rodentia,Mammalia,Metazoa,"Neodon irene mitochondrion, complete genome"
+KP202286,143,61405,serval,Leptailurus serval,Leptailurus,Felidae,Carnivora,Mammalia,Metazoa,"Leptailurus serval isolate LSE mitochondrion, complete genome"
+KR132587,125,37029,leopard cat,Prionailurus bengalensis,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus bengalensis mitochondrion, partial genome"
+KU177045,109,10060,muskrat,Ondatra zibethicus,Ondatra,Cricetidae,Rodentia,Mammalia,Metazoa,"Ondatra zibethicus mitochondrion, complete genome"
+KR132596,104,61388,fishing cat,Prionailurus viverrinus,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus viverrinus mitochondrion, partial genome"
+JN392459,101,300877,Amur leopard cat,Prionailurus bengalensis euptilurus,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus bengalensis euptilurus mitochondrion, complete genome"
+KP202274,99,61376,jungle cat,Felis chaus,Felis,Felidae,Carnivora,Mammalia,Metazoa,"Felis chaus isolate FCH mitochondrion, complete genome"
+KX857758,96,37029,leopard cat,Prionailurus bengalensis,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus bengalensis isolate PBE_142_Java mitochondrion, partial genome"
+KM982549,89,13125,Eurasian lynx,Lynx lynx,Lynx,Felidae,Carnivora,Mammalia,Metazoa,"Lynx lynx mitochondrion, complete genome"
+NC_002008,89,9615,dog,Canis lupus familiaris,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus familiaris mitochondrion, complete genome"
+KP202260,88,37029,leopard cat,Prionailurus bengalensis,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus bengalensis isolate PBE_82 mitochondrion, complete genome"
+KP202256,78,61454,bay cat,Catopuma badia,Catopuma,Felidae,Carnivora,Mammalia,Metazoa,"Catopuma badia isolate PBA mitochondrion, complete genome"
+KP202255,77,61412,African golden cat,Profelis aurata,Profelis,Felidae,Carnivora,Mammalia,Metazoa,"Profelis aurata isolate PAU mitochondrion, complete genome"
+MG833880,74,771787,Smokey vole,Neodon fuscus,Neodon,Cricetidae,Rodentia,Mammalia,Metazoa,"Neodon fuscus mitochondrion, complete genome"
+MH588632,62,9691,leopard,Panthera pardus,Panthera,Felidae,Carnivora,Mammalia,Metazoa,"Panthera pardus voucher ZMUCSC007 mitochondrion, partial genome"
+MH814703,59,9696,puma,Puma concolor,Puma,Felidae,Carnivora,Mammalia,Metazoa,"Puma concolor isolate SC29 mitochondrion, complete genome"
+KF483864,57,9690,jaguar,Panthera onca,Panthera,Felidae,Carnivora,Mammalia,Metazoa,"Panthera onca mitochondrion, complete genome"
+KX712239,56,85953,northern collared lemming,Dicrostonyx groenlandicus,Dicrostonyx,Cricetidae,Rodentia,Mammalia,Metazoa,"Dicrostonyx groenlandicus mitochondrion, complete genome"
+KP271500,54,61455,Asiatic golden cat,Catopuma temminckii,Catopuma,Felidae,Carnivora,Mammalia,Metazoa,"Catopuma temminckii mitochondrion, complete genome"
+NC_033356,54,105199,dusky-footed woodrat,Neotoma fuscipes,Neotoma,Cricetidae,Rodentia,Mammalia,Metazoa,"Neotoma fuscipes mitochondrion, complete genome"
+KP202293,53,61386,Kodkod,Leopardus guigna,Leopardus,Felidae,Carnivora,Mammalia,Metazoa,"Leopardus guigna isolate OGU mitochondrion, complete genome"
+KT448274,53,68724,golden jackal,Canis aureus,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis aureus isolate CAU_Israel_RKW1332 mitochondrion, partial genome"
+KT448281,53,32534,Ethiopian wolf,Canis simensis,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis simensis mitochondrion, partial genome"
+NC_035611,51,246392,plateau mouse,Peromyscus melanophrys,Peromyscus,Cricetidae,Rodentia,Mammalia,Metazoa,"Peromyscus melanophrys mitochondrion, complete genome"
+KR132592,45,61403,flat-headed cat,Prionailurus planiceps,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus planiceps mitochondrion, partial genome"
+KP202263,44,61410,marbled cat,Pardofelis marmorata,Pardofelis,Felidae,Carnivora,Mammalia,Metazoa,"Pardofelis marmorata isolate PMA mitochondrion, complete genome"
+KT448284,43,68739,Sechura desert fox,Lycalopex sechurae,Lycalopex,Canidae,Carnivora,Mammalia,Metazoa,"Lycalopex sechurae mitochondrion, partial genome"
+JF357967,42,74535,Bengal tiger,Panthera tigris tigris,Panthera,Felidae,Carnivora,Mammalia,Metazoa,"Panthera tigris tigris isolate TIGRIS1 mitochondrion, complete genome"
+KP202287,42,46842,little spotted cat,Leopardus tigrinus,Leopardus,Felidae,Carnivora,Mammalia,Metazoa,"Leopardus tigrinus isolate LTI_CA mitochondrion, complete genome"
+KR919624,41,13125,Eurasian lynx,Lynx lynx,Lynx,Felidae,Carnivora,Mammalia,Metazoa,"Lynx lynx voucher FRC2015-1 mitochondrion, complete genome"
+KF661051,38,9612,gray wolf,Canis lupus,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus isolate Iran mitochondrion, partial genome"
+KP202271,38,32536,cheetah,Acinonyx jubatus,Acinonyx,Felidae,Carnivora,Mammalia,Metazoa,"Acinonyx jubatus isolate AJU mitochondrion, complete genome"
+KP202279,38,1608482,jaguarundi,Puma yagouaroundi,Puma,Felidae,Carnivora,Mammalia,Metazoa,"Puma yagouaroundi isolate HJA mitochondrion, complete genome"
+KM276554,36,94196,small Indian civet,Viverricula indica,Viverricula,Viverridae,Carnivora,Mammalia,Metazoa,"Viverricula indica mitochondrion, complete genome"
+KP202294,36,713925,Andean mountain cat,Leopardus jacobita,Leopardus,Felidae,Carnivora,Mammalia,Metazoa,"Leopardus jacobita isolate OJA mitochondrion, complete genome"
+KX857755,36,37029,leopard cat,Prionailurus bengalensis,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus bengalensis isolate PBE_89_Borneo mitochondrion, partial genome"
+KY682733,33,61403,flat-headed cat,Prionailurus planiceps,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus planiceps isolate 14_SU mitochondrion, complete genome"
+NC_008092,33,9612,gray wolf,Canis lupus,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus mitochondrion, complete genome"
+KU290776,31,9615,dog,Canis lupus familiaris,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus familiaris isolate 534T mitochondrion, complete genome"
+MF871700,31,339609,Greater saber-toothed cat,Smilodon populator,Smilodon,Felidae,Carnivora,Mammalia,Metazoa,"Smilodon populator voucher ZMA20.042 mitochondrion, partial genome"
+KU290432,30,9615,dog,Canis lupus familiaris,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus familiaris isolate 135T mitochondrion, complete genome"
+KU168563,29,38668,northern grasshopper mouse,Onychomys leucogaster,Onychomys,Cricetidae,Rodentia,Mammalia,Metazoa,"Onychomys leucogaster mitochondrion, complete genome"
+KF661095,28,9612,gray wolf,Canis lupus,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus isolate Switzerland 3 14,500 mitochondrion, partial genome"
+KM892811,26,447135,Bank vole,Myodes glareolus,Myodes,Cricetidae,Rodentia,Mammalia,Metazoa,"Myodes glareolus voucher 301 mitochondrion, complete genome"
+KU290687,25,9615,dog,Canis lupus familiaris,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus familiaris isolate 451T mitochondrion, complete genome"
+MH152570,24,29092,short-tailed field vole,Microtus agrestis,Microtus,Cricetidae,Rodentia,Mammalia,Metazoa,"Microtus agrestis mitochondrion, complete genome"
+NC_013563,24,575527,NA,Proedromys liangshanensis,Proedromys,Cricetidae,Rodentia,Mammalia,Metazoa,"Proedromys liangshanensis mitochondrion, complete genome"
+NC_005212,23,32536,cheetah,Acinonyx jubatus,Acinonyx,Felidae,Carnivora,Mammalia,Metazoa,"Acinonyx jubatus mitochondrion, complete genome"
+NC_020729,23,9872,mule deer,Odocoileus hemionus,Odocoileus,Cervidae,Artiodactyla,Mammalia,Metazoa,"Odocoileus hemionus isolate T1766 mitochondrion, complete genome"
+KP202295,22,61408,Pallas's cat,Otocolobus manul,Otocolobus,Felidae,Carnivora,Mammalia,Metazoa,"Otocolobus manul isolate OMA mitochondrion, complete genome"
+NC_003041,21,100899,Taiwan vole,Microtus kikuchii,Microtus,Cricetidae,Rodentia,Mammalia,Metazoa,"Microtus kikuchii mitochondrion, complete genome"
+KX857767,19,37029,leopard cat,Prionailurus bengalensis,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus bengalensis isolate PBE_124_China mitochondrion, partial genome"
+KR132585,18,61408,Pallas's cat,Otocolobus manul,Otocolobus,Felidae,Carnivora,Mammalia,Metazoa,"Otocolobus manul mitochondrion, partial genome"
+NC_008450,18,61452,Clouded leopard,Neofelis nebulosa,Neofelis,Felidae,Carnivora,Mammalia,Metazoa,"Neofelis nebulosa mitochondrion, complete genome"
+JX088676,17,9615,dog,Canis lupus familiaris,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus familiaris isolate FraserIsland mitochondrion, complete genome"
+KP202277,17,61379,black-footed cat,Felis nigripes,Felis,Felidae,Carnivora,Mammalia,Metazoa,"Felis nigripes isolate FNI mitochondrion, complete genome"
+KP202282,17,61406,Colocolo,Leopardus colocolo,Leopardus,Felidae,Carnivora,Mammalia,Metazoa,"Leopardus colocolo isolate LCO mitochondrion, complete genome"
+KT448280,17,68725,black-backed jackal,Canis mesomelas,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis mesomelas mitochondrion, partial genome"
+KT448283,17,9622,African hunting dog,Lycaon pictus,Lycaon,Canidae,Carnivora,Mammalia,Metazoa,"Lycaon pictus mitochondrion, partial genome"
+KX808225,17,9696,puma,Puma concolor,Puma,Felidae,Carnivora,Mammalia,Metazoa,"Puma concolor isolate FP73 mitochondrion, partial genome"
+KX808228,17,9696,puma,Puma concolor,Puma,Felidae,Carnivora,Mammalia,Metazoa,"Puma concolor isolate TX105 mitochondrion, partial genome"
+KJ637098,16,9615,dog,Canis lupus familiaris,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus familiaris haplotype Be32_1 mitochondrion, partial genome"
+KP202292,15,46844,Geoffroy's cat,Leopardus geoffroyi,Leopardus,Felidae,Carnivora,Mammalia,Metazoa,"Leopardus geoffroyi isolate OGE mitochondrion, complete genome"
+KX857765,15,37029,leopard cat,Prionailurus bengalensis,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus bengalensis isolate PBE_189_SE_India mitochondrion, partial genome"
+MN199176,15,1449541,narrow-headed vole,Lasiopodomys gregalis,Lasiopodomys,Cricetidae,Rodentia,Mammalia,Metazoa,"Lasiopodomys gregalis isolate MI093 mitochondrion, partial genome"
+NC_009686,15,443256,Eurasian wolf,Canis lupus lupus,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus lupus mitochondrion, complete genome"
+U20753,15,9685,domestic cat,Felis catus,Felis,Felidae,Carnivora,Mammalia,Metazoa,"Felis catus mitochondrion, complete genome"
+KF661078,14,9612,gray wolf,Canis lupus,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus isolate Belgium 26,000 mitochondrion, partial genome"
+KR135742,14,61388,fishing cat,Prionailurus viverrinus,Prionailurus,Felidae,Carnivora,Mammalia,Metazoa,"Prionailurus viverrinus mitochondrion, partial genome"
+MG489822,14,2136167,NA,Genetta abyssinica,Genetta,Viverridae,Carnivora,Mammalia,Metazoa,"Genetta abyssinica mitochondrion, partial genome"
+EF551004,13,29064,snow leopard,Panthera uncia,Panthera,Felidae,Carnivora,Mammalia,Metazoa,"Uncia uncia mitochondrion, complete genome"
+KM892823,13,447135,Bank vole,Myodes glareolus,Myodes,Cricetidae,Rodentia,Mammalia,Metazoa,"Myodes glareolus voucher 1378 mitochondrion, complete genome"
+KR132583,13,191816,Spanish lynx,Lynx pardinus,Lynx,Felidae,Carnivora,Mammalia,Metazoa,"Lynx pardinus mitochondrion, partial genome"
+KX902239,13,372326,NA,Patagioenas fasciata monilis,Patagioenas,Columbidae,Columbiformes,Aves,Metazoa,"Patagioenas fasciata monilis voucher AMNH:DOT_1402 mitochondrion, complete genome"
+EU789673,12,9615,dog,Canis lupus familiaris,Canis,Canidae,Carnivora,Mammalia,Metazoa,"Canis lupus familiaris isolate A75_m286 mitochondrion, complete genome"
+KT448285,12,68741,NA,Speothos venaticus,NA,NA,NA,NA,NA,NA
+MH124079,12,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KF661086,11,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX224519,11,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ139388,10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP202281,10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU290561,10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP129108,9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KT448271,9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX857756,9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX066190,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX683880,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX857796,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ508409,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ636050,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ637100,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP202272,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX808223,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_016427,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KF646248,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KF907307,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KR132580,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MH818219,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MN199174,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JN711443,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KF918859,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KM892818,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP202276,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KR132594,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX808222,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KY682729,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KY682734,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MH818221,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_013445,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JX014233,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ637068,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP202266,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU200225,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU290643,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU290685,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX808226,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KY798511,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MH362798,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FJ236288,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KM892821,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KT033906,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU290509,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX857787,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KY682732,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MG200266,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MH166880,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MH248068,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_007936,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_008422,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_008433,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_012374,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_013700,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_020640,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_035594,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JQ044946,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KF387633,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KF826488,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ140137,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ680375,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KM892836,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU291053,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX808224,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX808231,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX891751,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KY117573,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KY776502,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MK043027,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_035571,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_035596,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AB053205,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AB291076,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AJ001588,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AP008301,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+D89009,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JF342845,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JN655831,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+JX153341,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KC663621,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KF907306,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ131179,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ446086,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ619487,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KJ624980,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KM112298,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KM612272,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KM612274,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KM892809,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP001496,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP001498,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP001500,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KP877610,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KR132582,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KR868707,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KT166982,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU234271,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU290497,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KU885975,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX258451,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX808227,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KX891743,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KY117544,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KY117583,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MF871701,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MG570471,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MG792276,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MH464789,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MH814704,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MK059677,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_008415,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_008427,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_011358,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_012461,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_013068,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_018053,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_035593,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_035599,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NC_035613,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
