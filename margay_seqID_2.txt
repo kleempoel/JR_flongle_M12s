@@ -1,0 +1,2 @@
+f3a5e484-527f-4fed-857d-a69c3703b477 runid=40383d18f3605f16e0618a2f0a609b10686f9e27 read=36 ch=40 start_time=2020-03-08T03:17:46Z flow_cell_id=ABY044 protocol_group_id=JR_Predators sample_id=JR_MiMammal
+213acb0e-3219-4f1d-ad26-76cdfad93d90 runid=40383d18f3605f16e0618a2f0a609b10686f9e27 read=11586 ch=111 start_time=2020-03-08T04:52:43Z flow_cell_id=ABY044 protocol_group_id=JR_Predators sample_id=JR_MiMammal

@@ -38,16 +38,16 @@ write_csv(accessions, 'blast/jr_flongle_m12s_allseqcut_mito_accessions.csv', na 
 all_sp=accessions %>% group_by(common_name) %>% summarise(sum(count)) %>% arrange(-`sum(count)`)
 all_fam=accessions %>% group_by(Family) %>% summarise(sum(count)) %>% arrange(-`sum(count)`)
 all_gen=accessions %>% group_by(Genus) %>% summarise(sum(count)) %>% arrange(-`sum(count)`)
-
+all_sacc=accessions %>% group_by(sacc) %>% summarise(sum(count)) %>% arrange(-`sum(count)`)
 
 #get current species
-current_sp='plateau mouse'
-current_sacc=(accessions %>% filter(common_name==current_sp) %>% select(sacc))$sacc
-current_blast=data %>% filter(sacc==current_sacc)
+current_sp='Muridae'
+current_sacc=(accessions %>% filter(Family==current_sp) %>% select(sacc))$sacc
+current_blast=data %>% filter(sacc %in% current_sacc)
 
 ### Get fasta sequences
 seq_file="Data/fasta_pass_cut.fasta"
-out_file="test.fasta"
+out_file=paste(current_sp,"_allSeqs.fasta",sep='')
 seq_list=current_blast$seqid
 # seq_list=c('d7d1d81f-d61a-47db-8a7b-46486da2b53d','421511a2-37e3-4959-b3cd-ecffe715b783')
 write('',file=out_file,append=FALSE)
@@ -79,4 +79,12 @@ for (iseq in 1:length(seq_list)){
   }
   close(con)
 }
-
+# 
+# 
+# ### Save list of sequences for seqkit
+# write.table(seq_list,paste(current_sp,"_seqID.txt",sep=''),quote = F,col.names = F,row.names = F)
+# 'seqkit subseq -j 16 Data/fasta_pass_cut.fasta margay_seqID.txt > margay.fasta'
+# 'seqkit subseq -j 16 Data/fasta_pass_cut.fasta margay_seqID_2.txt > margay.fasta'
+# 'grep -w -A 2 -f  margay_seqID_2.txt Data/fasta_pass_cut.fasta --no-group-separator > margay.fasta'
+# 
+# t=grep()

@@ -186,4 +186,38 @@ Given that the clustering is not optimal, we can also check what the results loo
 
 
 
-4.2. Blasting all sequences against curated M12s database
+4.2. Consensus sequences
+
+Comparing Families from Miseq and Nanopore
+Found 11 out of 14 (except Geomyidae, Equidae, Passerellidae)
+
+Found 7 families with at least 10 reads in Nanopore run. 7 families in total
+	
+Family sum(count)
+1	Felidae	58365
+2	Canidae	17552
+3	Cricetidae	16287
+4	Viverridae	62
+5	Cervidae	25
+6	Muridae	14
+7	Columbidae	13
+
+Geting consensus
+Viverridae matched to Puma concolor mitochondrion, complete genome at 97%
+Phocidae, only 8 reads, matched to Canis latrans at 93%
+Mustelidae, only 5 reads, matched to Mustela frenata but only at 82%. Interesting because not found in Miseq!
+Muridae, 14 sequences, matched to Microtus multiplex at 91%
+
+Did it in R and geneious at first.
+Can probably be done with seqkit, mafft/muscle and a consensus package
+
+Seqkit, extract all reads for a given otu (sacc or genus, family..)
+cat Data/fasta_pass_cut.fasta | seqkit grep -f margay_seqID.txt > margay.fasta
+
+Alignment
+https://www.drive5.com/muscle/
+
+Consensus
+https://www.bioinformatics.nl/cgi-bin/emboss/help/cons
+http://www.stevekellylab.com/software/mergealign
+https://www.mothur.org/wiki/Consensus.seqs
